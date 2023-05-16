@@ -1,0 +1,30 @@
+.p{
+    width: 25vw;
+    height: 27vh;
+    margin: 20px 10px;
+    overflow: hidden;
+    border: 3px solid rgb(223, 210, 31);
+}
+.p-top{
+    height: 18%;
+    background-color: rgba(223, 210, 31);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    position: sticky;
+    z-index: 2;
+}
+
+.p-img{
+    width: 100%;
+    height: 100%;
+}
+
+
+@media screen and (max-width:700px) {
+    .p{
+        width: 30vh;
+    }
+}
