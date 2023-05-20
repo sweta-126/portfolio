@@ -2,7 +2,7 @@ export const products = [
     {
         id: 1,
         img: "/img/s4.png",
-        link:"https://github.com/sweta-126/socialmedia",
+        link:"https://socialmedia-app-mern-application.netlify.app",
         title:"Socialmedia App"
     },
     {
